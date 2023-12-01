@@ -10,7 +10,7 @@ const Card = (props) => {
             <h3>{props.main_title}</h3>
             <div className="info-group">
                 <img src={album_icon} />
-                <p>My Beautiful Dark Twisted Fantasy Japanese Deluxe Edition</p>
+                <p>{props.album_name}</p>
             </div>
             <div className="info-group">
                 <img src={artist_icon} />
