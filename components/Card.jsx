@@ -8,15 +8,15 @@ const Card = () => {
         <div className="album-card">
             <img src={album_art} />
             <h3>MBDTF</h3>
-            <div>
+            <div className="info-group">
                 <img src={album_icon} />
                 <p>My Beautiful Dark Twisted Fantasy Japanese Deluxe Edition</p>
             </div>
-            <div>
+            <div className="info-group">
                 <img src={artist_icon} />
                 <p>Kanye West</p>
             </div>
-            <div>
+            <div className="info-group">
                 <img src={genre_icon} />
                 <p>Hip Hop</p>
             </div>
