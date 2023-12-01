@@ -23,7 +23,7 @@ body {
 }
 
 .album-card > img {
-    width: 100%;
+    width: auto;
     height: auto;
     align-self: center;
     border-radius: 5px;
@@ -41,13 +41,13 @@ body {
 }
 
 .info-group > img {
-    height: 11px;
+    height: 24px;
     margin-right: 8px;
 }
 
 .info-group > p {
     margin-block: 3px;
-    font-size: 12px;
+    font-size: 24px;
     color: #2B283A;
 }
 
