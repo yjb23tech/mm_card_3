@@ -22,3 +22,10 @@ body {
     background-color: white;
 }
 
+.album-card > img {
+    width: 100%;
+    height: auto;
+    align-self: center;
+    border-radius: 5px;
+    object-fit: cover;
+}
