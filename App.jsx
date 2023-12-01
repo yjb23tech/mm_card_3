@@ -6,7 +6,7 @@ const App = () => {
     return (
         <div>
             <h1>Above It All</h1>
-            <Card album_cover_art ="album_cover_2.png" main_title="YEEZUS" artist_name="Kanye West" album_name="TurboGrafx" genre_name="Sophisticated Ignorance"/>
+            <Card image_art = "album_cover_2.png" main_title="YEEZUS" artist_name="Kanye West" album_name="TurboGrafx" genre_name="Sophisticated Ignorance"/>
         </div>
 
     )
