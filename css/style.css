@@ -29,3 +29,10 @@ body {
     border-radius: 5px;
     object-fit: cover;
 }
+
+.album-card > h3 {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+

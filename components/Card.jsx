@@ -7,6 +7,7 @@ const Card = () => {
     return (
         <div className="album-card">
             <img src={album_art} />
+            <h3>MBDTF</h3>
             <div>
                 <img src={album_icon} />
                 <p>My Beautiful Dark Twisted Fantasy Japanese Deluxe Edition</p>
