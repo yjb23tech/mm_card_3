@@ -41,13 +41,13 @@ body {
 }
 
 .info-group > img {
-    height: 24px;
-    margin-right: 8px;
+    height: 36px;
+    margin-right: 16px;
 }
 
 .info-group > p {
     margin-block: 3px;
-    font-size: 24px;
+    font-size: 36px;
     color: #2B283A;
 }
 

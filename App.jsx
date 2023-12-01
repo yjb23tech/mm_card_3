@@ -7,7 +7,7 @@ const App = () => {
     return (
         <div>
             <h1>Above It All</h1>
-            <Card />
+            <Card main_title="YEEZUS" />
         </div>
 
     )
