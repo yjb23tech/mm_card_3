@@ -5,7 +5,7 @@ import genre_icon from "../images/genre_icon.png"
 
 const Card = () => {
     return (
-        <div>
+        <div className="album-card">
             <img src={album_art} />
             <div>
                 <img src={album_icon} />
