@@ -7,7 +7,7 @@ const App = () => {
     return (
         <div>
             <h1>Above It All</h1>
-            <Card main_title="YEEZUS" />
+            <Card main_title="YEEZUS" artist_name="Kanye West" genre_name="Sophisticated Ignorance"/>
         </div>
 
     )

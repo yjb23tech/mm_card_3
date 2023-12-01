@@ -14,11 +14,11 @@ const Card = (props) => {
             </div>
             <div className="info-group">
                 <img src={artist_icon} />
-                <p>Kanye West</p>
+                <p>{props.artist_name}</p>
             </div>
             <div className="info-group">
                 <img src={genre_icon} />
-                <p>Hip Hop</p>
+                <p>{props.genre_name}</p>
             </div>
         </div>
     )
