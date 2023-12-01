@@ -7,7 +7,7 @@ const App = () => {
         <div>
             <h1>Above It All</h1>
             <Card 
-                image_art = "album_cover_1.png" 
+                image_art="album_cover_2.png" 
                 main_title="YEEZUS" 
                 album_icon="album_icon.png"
                 album_name="TurboGrafx" 
